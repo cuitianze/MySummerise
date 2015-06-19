@@ -301,3 +301,6 @@
 
 ---
 [移动端HTML5资源整理](http://www.mamicode.com/info-detail-495379.html)
+
+---
+[git常用命令介绍](http://wenku.baidu.com/link?url=zNVaRS0ld4liHz9TEc2k4h6xDLvBhkndyNgz5RpTNPBnC7yRKT4KbxR_LcDKrQ9u-77-ZmYyIj9HWcutkLv-uPzuwu1JnASNfcZbkQ0Kgka)
