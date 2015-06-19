@@ -64,6 +64,8 @@
 
 ---
 [淘宝UED](http://ued.taobao.org/blog/)
+[携程UED](http://ued.ctrip.com/)
+[一号店](UED)
 
 ---
 [自适应屏幕中em的详细说明](http://www.w3cplus.com/css/px-to-em)
@@ -120,6 +122,9 @@
 [何幻github](https://github.com/thzt)
 [剧中人github](https://github.com/bh-lay)
 [剧中人的博客和其前端朋友](http://bh-lay.com/links)
+[前端开发中级群一丁github](http://longmore.github.io/)
+[汤姆大叔的博客 Bootstrap作者](http://www.cnblogs.com/TomXu/)
+[徐飞的github](https://github.com/xufei/blog/issues)
 
 ---
 [免费在线作图（思维导图）](https://www.processon.com/)
@@ -178,9 +183,6 @@
 [技术牛人张鑫旭的博客](http://www.zhangxinxu.com/)
 
 ---
-[前端开发中级群一丁github](http://longmore.github.io/)
-
----
 [canvas 刮奖实战](http://www.cnblogs.com/jscode/p/3580878.html)
 
 ---
@@ -203,6 +205,10 @@
 [markdown语法](http://www.cnblogs.com/hnrainll/p/3514637.html)
 [markdown语法](https://guides.github.com/features/mastering-markdown/)
 [markdown在线编辑工具](https://www.zybuluo.com/mdeditor)
+[Markdown语法](http://blog.csdn.net/kaitiren/article/details/38513715)
+[Markdown语法](http://blog.csdn.net/kaitiren/article/details/38513715)
+[一款轻量级的markdown编辑器](http://bh-lay.github.io/mditor/)
+[强大的目前在用的markdown编辑器](https://www.zybuluo.com/mdeditor)
 
 ---
 [弹出层插件](http://bh-lay.github.io/UI/)
@@ -217,3 +223,81 @@
 [前端总结](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 ---
+下面两种都是基于D3
+[非常强大的canvas图形动态效果库](http://bl.ocks.org/mbostock)
+[非常强大的canvas图形动态效果库](https://github.com/mbostock/d3/wiki/Gallery)
+
+---
+[Helping you select an MV* framework](http://todomvc.com/)
+
+---
+[在线编辑器](http://www.bootcss.com/p/bootstrap-wysiwyg/)
+[百度 ueditor](http://ueditor.baidu.com/website/)
+[在线编辑器](http://kindeditor.net/demo.php)
+[在线编辑器](https://github.com/mycolorway/simditor)
+
+---
+[超级详细的Git 教程](http://www.open-open.com/lib/view/open1328069733264.html)
+[简洁扼要的图文话git教程](http://www.bootcss.com/p/git-guide/)
+[简洁扼要的图文话git教程](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
+[git常规操作](http://www.cnblogs.com/wang_yb/p/3867221.html)
+[git 生成ssh密钥](http://blog.csdn.net/wfdtxz/article/details/8678982)
+[git字典](http://git.oschina.net/progit/)
+[github 一种展示页面的方法](http://www.zhihu.com/question/24156818)
+[github创建pages页面](http://jingyan.baidu.com/album/ed2a5d1f3732cb09f7be1745.html?picindex=2)
+[github pages官方说明文档](https://pages.github.com/)
+
+---
+[codewar](http://www.codewars.com/?language=javascript)
+
+---
+[js花园--全面介绍js的网站](http://www.codewars.com/?language=javascript)
+
+---
+[百度Fex-注重全栈开发](http://fex.baidu.com/articles/)
+
+---
+[前端技术博客](http://www.html-js.com/)
+
+---
+[前端站点导航页](http://www.whycss.com/)
+[前端站点导航页](http://sentsin.com/daohang/)
+
+---
+[百度静态资源公共库](http://cdn.code.baidu.com/?qq-pf-to=pcqq.group)
+
+---
+[Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions#html-questions)
+
+---
+[less sass stylus等css预处理器剖析](http://efe.baidu.com/blog/revisiting-css-preprocessors/)
+
+---
+[react.js  入门实例教程](http://div.io/topic/928)
+[react.js 入门教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
+[flux-react-router-example](https://github.com/gaearon/flux-react-router-example)
+
+---
+[github上值得关注的前端项目](http://segmentfault.com/a/1190000002804472)
+
+---
+我的百度网盘里面有秒味堂的JS和HTML5视频
+
+---
+[track.js](http://trackingjs.com/)
+
+---
+[豪情高级群整理](http://www.cnblogs.com/LoveOrHate/category/687373.html)
+[豪情中级群整理](http://www.cnblogs.com/callback-w/category/682711.html)
+
+---
+[chrome渲染分析之timeline 工具的使用](http://www.th7.cn/web/html-css/201406/42043.shtml)
+
+---
+[canvas 简单案例](http://www.cnblogs.com/liyunhua/p/4557135.html)
+
+---
+[-webkit-appearance 和box-shadow介绍](http://blog.csdn.net/zhang_red/article/details/44594395)
+
+---
+[移动端HTML5资源整理](http://www.mamicode.com/info-detail-495379.html)
