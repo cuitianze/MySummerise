@@ -3,9 +3,6 @@
 标签（空格分隔）： 未分类
 
 
-[点击跳转](#jump)
-[点击跳转](#sss)
-
 ---
 [JS的语言特性](http://www.ibm.com/developerworks/cn/java/j-cb12196/)
 
@@ -118,15 +115,15 @@
 [免费在线作图工具](https://www.processon.com/)
 
 ---
-[何幻github](https://github.com/thzt)
-[剧中人github](https://github.com/bh-lay)
-[剧中人的博客和其前端朋友](http://bh-lay.com/links)
-[前端开发中级群一丁github](http://longmore.github.io/)
-[汤姆大叔的博客 Bootstrap作者](http://www.cnblogs.com/TomXu/)
-[徐飞的github](https://github.com/xufei/blog/issues)
-[周圣github](https://github.com/finance-sh/rline)
-[技术牛人张鑫旭的博客](http://www.zhangxinxu.com/)
-[百度Fex-注重全栈开发](http://fex.baidu.com/articles/)
+[何幻github](https://github.com/thzt)|
+[剧中人github](https://github.com/bh-lay)|
+[剧中人的博客和其前端朋友](http://bh-lay.com/links)|
+[前端开发中级群一丁github](http://longmore.github.io/)|
+[汤姆大叔的博客 Bootstrap作者](http://www.cnblogs.com/TomXu/)|
+[徐飞的github](https://github.com/xufei/blog/issues)|
+[周圣github](https://github.com/finance-sh/rline)|
+[技术牛人张鑫旭的博客](http://www.zhangxinxu.com/)|
+[百度Fex-注重全栈开发](http://fex.baidu.com/articles/)|
 
 ---
 [免费在线作图（思维导图）](https://www.processon.com/)
@@ -294,9 +291,3 @@
 
 ---
 [移动端HTML5资源整理](http://www.mamicode.com/info-detail-495379.html)
-
----
-
-<span id="jump">跳转到的地方</span>
-<h2 id="sss">sss</h2>
----
