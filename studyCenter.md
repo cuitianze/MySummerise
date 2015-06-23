@@ -69,6 +69,7 @@
 [腾讯alloy部门（QQ 有群）](http://www.alloyteam.com/)
 [百度前端团队1](https://github.com/finance-sh/plugins-library)
 [阿里巴巴支付宝部门](https://github.com/lifesinger/lifesinger.github.com/issues/201)
+[百度Fex-注重全栈开发](http://fex.baidu.com/articles/)
 
 ---
 [自适应屏幕中em的详细说明](http://www.w3cplus.com/css/px-to-em)
@@ -123,7 +124,6 @@
 *[徐飞的github](https://github.com/xufei/blog/issues)
 *[周圣github](https://github.com/finance-sh/rline)
 *[技术牛人张鑫旭的博客](http://www.zhangxinxu.com/)
-*[百度Fex-注重全栈开发](http://fex.baidu.com/articles/)
 
 ---
 [免费在线作图（思维导图）](https://www.processon.com/)
@@ -206,9 +206,7 @@
 [弹出层插件](http://bh-lay.github.io/UI/)
 
 ---
-[比较厉害  各种粒子效果（不是很理解 最好直接重新看下）
-粒子碰撞理解  以及 此博客也有很多重要内容
-](http://www.cnblogs.com/miloyip/archive/2010/06/14/Kinematics_ParticleSystem.html)
+[比较厉害  各种粒子效果（不是很理解 最好直接重新看下）粒子碰撞理解  以及 此博客也有很多重要内容](http://www.cnblogs.com/miloyip/archive/2010/06/14/Kinematics_ParticleSystem.html)
 [腾讯alloyteam HTML5 粒子编辑器（是一个插件可以直接去设置粒子）](http://www.alloyteam.com/2015/01/particle-editor/)
 
 ---
