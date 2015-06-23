@@ -2,6 +2,9 @@
 
 标签（空格分隔）： 未分类
 
+
+[点击跳转](#jump)
+
 ---
 [JS的语言特性](http://www.ibm.com/developerworks/cn/java/j-cb12196/)
 
@@ -292,3 +295,4 @@
 [移动端HTML5资源整理](http://www.mamicode.com/info-detail-495379.html)
 
 ---
+<span id="jump">跳转到的地方</span>
