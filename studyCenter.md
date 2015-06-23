@@ -60,12 +60,14 @@
 [html（响应式）自适应](http://blog.csdn.net/damys/article/details/24363769)
 
 ---
-[腾讯HTML5](http://cube.qq.com/)
-
----
 [淘宝UED](http://ued.taobao.org/blog/)
 [携程UED](http://ued.ctrip.com/)
 [一号店](UED)
+[腾讯HTML5](http://cube.qq.com/)
+[腾讯alloy部门（QQ 有群）](http://alloyteam.github.io/AlloyPhoto/)
+[腾讯alloy部门（QQ 有群）](http://www.alloyteam.com/)
+[百度前端团队1](https://github.com/finance-sh/plugins-library)
+[阿里巴巴支付宝部门](https://github.com/lifesinger/lifesinger.github.com/issues/201)
 
 ---
 [自适应屏幕中em的详细说明](http://www.w3cplus.com/css/px-to-em)
@@ -97,17 +99,10 @@
 [canvas 牛x案例](http://evt.dianping.com/market/20141216/?from=singlemessage&isappinstalled=0)
 
 ---
-[百度前端团队1](https://github.com/finance-sh/plugins-library)
-[周圣github](https://github.com/finance-sh/rline)
-
----
 [JSON 和jsonp](http://kb.cnblogs.com/page/139725/)
 
 ---
 [前端cookie 攻击](http://www.cnblogs.com/index-html/p/mitm-cookie-sniffer.html?utm_campaign=in_app_share&utm_medium=iOS&utm_source=qq)
-
----
-[阿里巴巴支付宝部门](https://github.com/lifesinger/lifesinger.github.com/issues/201)
 
 ---
 [canvas和svg如何抉择](https://msdn.microsoft.com/zh-cn/library/ie/gg193983(v=vs.85).aspx)
@@ -125,6 +120,9 @@
 [前端开发中级群一丁github](http://longmore.github.io/)
 [汤姆大叔的博客 Bootstrap作者](http://www.cnblogs.com/TomXu/)
 [徐飞的github](https://github.com/xufei/blog/issues)
+[周圣github](https://github.com/finance-sh/rline)
+[技术牛人张鑫旭的博客](http://www.zhangxinxu.com/)
+[百度Fex-注重全栈开发](http://fex.baidu.com/articles/)
 
 ---
 [免费在线作图（思维导图）](https://www.processon.com/)
@@ -149,17 +147,13 @@
 [JSONP和 json](http://www.cnblogs.com/dowinning/archive/2012/04/19/json-jsonp-jquery.html)
 
 ---
-[前端面试题以及总结](http://segmentfault.com/a/1190000002562454)[]()[]()[]()[]()[]()
+[前端面试题以及总结](http://segmentfault.com/a/1190000002562454)
 
 ---
 [一款基于iframe的单页应用组件（single page application）](https://github.com/bh-lay/iframer)
 
 ---
 [jQuery选择器和选取方法](http://www.cnblogs.com/MaxIE/p/4078869.html)
-
----
-[腾讯alloy部门（QQ 有群）](http://alloyteam.github.io/AlloyPhoto/)
-[腾讯alloy部门（QQ 有群）](http://www.alloyteam.com/)
 
 ---
 [HTML5实战与剖析之剪贴板事件](http://blog.csdn.net/lee_magnum/article/details/17761441)
@@ -178,9 +172,6 @@
 
 ---
 [前端工具总结](http://www.zhihu.com/question/28638304)
-
----
-[技术牛人张鑫旭的博客](http://www.zhangxinxu.com/)
 
 ---
 [canvas 刮奖实战](http://www.cnblogs.com/jscode/p/3580878.html)
@@ -246,15 +237,13 @@
 [github 一种展示页面的方法](http://www.zhihu.com/question/24156818)
 [github创建pages页面](http://jingyan.baidu.com/album/ed2a5d1f3732cb09f7be1745.html?picindex=2)
 [github pages官方说明文档](https://pages.github.com/)
+[git常用命令介绍](http://wenku.baidu.com/link?url=zNVaRS0ld4liHz9TEc2k4h6xDLvBhkndyNgz5RpTNPBnC7yRKT4KbxR_LcDKrQ9u-77-ZmYyIj9HWcutkLv-uPzuwu1JnASNfcZbkQ0Kgka)
 
 ---
 [codewar](http://www.codewars.com/?language=javascript)
 
 ---
 [js花园--全面介绍js的网站](http://www.codewars.com/?language=javascript)
-
----
-[百度Fex-注重全栈开发](http://fex.baidu.com/articles/)
 
 ---
 [前端技术博客](http://www.html-js.com/)
@@ -303,4 +292,3 @@
 [移动端HTML5资源整理](http://www.mamicode.com/info-detail-495379.html)
 
 ---
-[git常用命令介绍](http://wenku.baidu.com/link?url=zNVaRS0ld4liHz9TEc2k4h6xDLvBhkndyNgz5RpTNPBnC7yRKT4KbxR_LcDKrQ9u-77-ZmYyIj9HWcutkLv-uPzuwu1JnASNfcZbkQ0Kgka)
