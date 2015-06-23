@@ -295,6 +295,8 @@
 [移动端HTML5资源整理](http://www.mamicode.com/info-detail-495379.html)
 
 ---
+```html
 <span id="jump">跳转到的地方</span>
+```
 
 ---
