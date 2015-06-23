@@ -4,6 +4,7 @@
 
 
 [点击跳转](#jump)
+[点击跳转](#sss)
 
 ---
 [JS的语言特性](http://www.ibm.com/developerworks/cn/java/j-cb12196/)
@@ -298,5 +299,5 @@
 ```html
 <span id="jump">跳转到的地方</span>
 ```
-
+<h2 id="sss">sss</h2>
 ---
