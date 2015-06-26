@@ -294,3 +294,5 @@
 [剧中人的瀑布流写法](https://github.com/bh-lay/stick)
 
 ---
+[剧中人的移动端手势事件的实现的逻辑](http://bh-lay.com/blog/14e212bdbeb)
+---
