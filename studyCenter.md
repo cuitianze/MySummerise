@@ -295,4 +295,8 @@
 
 ---
 [剧中人的移动端手势事件的实现的逻辑](http://bh-lay.com/blog/14e212bdbeb)
+
+---
+[Chrome Developer Tools之Timeline面板](http://www.kazaff.me/2014/01/18/chrome-developer-tools%E4%B9%8Btimeline%E9%9D%A2%E6%9D%BF/)
+
 ---
