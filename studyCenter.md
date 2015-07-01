@@ -306,3 +306,10 @@ gulp
 
 ---
 [CSS3阴影 box-shadow的使用和技巧总结](http://blog.csdn.net/freshlover/article/details/7610269)
+
+---
+[深入浅出 React Native：使用 JavaScript 构建原生应用](http://zhuanlan.zhihu.com/FrontendMagazine/19996445)
+1.可以基于React Native使用javascript编写应用逻辑，UI则可以保持全是原生的。这样的话就没有必要就HTML5的UI做出常见的妥协
+2.React引入一种与众不同的，略显激进但具备高可用性的方案来构建用户界面。长话短说，应用的UI简单通过一个基于应用目前状态的函数来表达
+React Native的关键就是，以把React编程模式的能力带到移动开发来作为主要目标。
+key point ：**它的目标不是跨平台一次编写到处执行，而是一次学习跨平台开发**
