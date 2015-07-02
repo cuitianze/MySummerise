@@ -316,3 +316,4 @@ key point ：**它的目标不是跨平台一次编写到处执行，而是一�
 
 ---
 [有关前后端分离的PPT](http://2014.jsconf.cn/slides/herman-taobaoweb/index.html#/69)
+[前后端分离的思考与实践](http://ued.taobao.org/blog/category/bowen/frontend/)
