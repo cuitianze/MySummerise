@@ -313,3 +313,6 @@ gulp
 2.React引入一种与众不同的，略显激进但具备高可用性的方案来构建用户界面。长话短说，应用的UI简单通过一个基于应用目前状态的函数来表达
 React Native的关键就是，以把React编程模式的能力带到移动开发来作为主要目标。
 key point ：**它的目标不是跨平台一次编写到处执行，而是一次学习跨平台开发**
+
+---
+[有关前后端分离的PPT](http://2014.jsconf.cn/slides/herman-taobaoweb/index.html#/69)
