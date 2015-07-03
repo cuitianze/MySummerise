@@ -303,6 +303,8 @@
 gulp
 [gulp之静态资源防缓存处理](http://www.cnblogs.com/YikaJ/p/4267577.html)
 [前端构建工具gulpjs的使用介绍及技巧](http://www.cnblogs.com/2050/p/4198792.html)
+[gulp入门指南](http://www.open-open.com/lib/view/open1417068223049.html)
+[Gulp使用指南-这个有比较详细的范例](http://www.techug.com/gulp)
 
 ---
 [CSS3阴影 box-shadow的使用和技巧总结](http://blog.csdn.net/freshlover/article/details/7610269)
