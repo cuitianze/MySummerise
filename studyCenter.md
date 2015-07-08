@@ -319,3 +319,6 @@ key point ：**它的目标不是跨平台一次编写到处执行，而是一�
 ---
 [有关前后端分离的PPT](http://2014.jsconf.cn/slides/herman-taobaoweb/index.html#/69)
 [前后端分离的思考与实践](http://ued.taobao.org/blog/category/bowen/frontend/)
+
+---
+[9张动图读懂响应式设计](http://mp.weixin.qq.com/s?__biz=MzA4MjIxMzAyMw==&mid=202051539&idx=4&sn=1a3dfde327d857b1ee646fd9453ec724#rd)
