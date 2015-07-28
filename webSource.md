@@ -335,3 +335,4 @@ key point ：**它的目标不是跨平台一次编写到处执行，而是一�
 
 ---
 [H5页面可见性API---document的visibilitychange](http://bh-lay.com/blog/14e6e855585)
+[小球随机游走demo](http://sandbox.runjs.cn/show/fceluqtu)
