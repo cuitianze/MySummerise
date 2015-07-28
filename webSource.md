@@ -322,3 +322,10 @@ key point ：**它的目标不是跨平台一次编写到处执行，而是一�
 
 ---
 [9张动图读懂响应式设计](http://mp.weixin.qq.com/s?__biz=MzA4MjIxMzAyMw==&mid=202051539&idx=4&sn=1a3dfde327d857b1ee646fd9453ec724#rd)
+
+---
+[画图表---echart](http://echarts.baidu.com/)
+其他的还有hightcharts
+
+---
+[一款很好用的预加载软件](http://github.hubspot.com/pace/docs/welcome/)
