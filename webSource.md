@@ -227,6 +227,7 @@
 [在线编辑器](https://github.com/mycolorway/simditor)
 
 ---
+[图形化显示完整git](http://sfault-image.b0.upaiyun.com/37/92/37923f2478edc5709b36562b26c9e008)
 [超级详细的Git 教程](http://www.open-open.com/lib/view/open1328069733264.html)
 [简洁扼要的图文话git教程](http://www.bootcss.com/p/git-guide/)
 [简洁扼要的图文话git教程](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
