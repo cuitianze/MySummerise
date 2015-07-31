@@ -340,3 +340,6 @@ key point ：**它的目标不是跨平台一次编写到处执行，而是一�
 
 ---
 [粘贴板功能](https://github.com/zeroclipboard/zeroclipboard)
+
+---
+[javascript关于cookie的操作](http://www.css119.com/archives/1414)
