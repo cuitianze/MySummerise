@@ -343,3 +343,10 @@ key point ：**它的目标不是跨平台一次编写到处执行，而是一�
 
 ---
 [javascript关于cookie的操作](http://www.css119.com/archives/1414)
+
+---
+[A suite of modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5](http://createjs.com/)
+include:
+easel.js ：A javascript library that makes working with the HTML5 Canvas element easy.
+TWEEN.js ：A javascript library for tweening and animating HTML5 and javascript properties
+Sound.js ：A javascript library that lets you easily and efficiently work with HTML5 audio
