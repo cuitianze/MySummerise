@@ -350,3 +350,9 @@ include:
 easel.js ：A javascript library that makes working with the HTML5 Canvas element easy.
 TWEEN.js ：A javascript library for tweening and animating HTML5 and javascript properties
 Sound.js ：A javascript library that lets you easily and efficiently work with HTML5 audio
+
+---
+[javascript四种跨域方式详解](http://segmentfault.com/a/1190000003642057?utm_source=tuicool)
+
+---
+[动画效果集](http://frozenui.github.io/case.html)
