@@ -359,3 +359,9 @@ Sound.js ：A javascript library that lets you easily and efficiently work with 
 
 ---
 [关于无线web解决方案](http://am-team.github.io/about/about.html)
+
+---
+[闭包](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures)
+
+---
+[PhoneGap--前端开发APP工具](http://phonegap.com/)
