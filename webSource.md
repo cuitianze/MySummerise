@@ -365,3 +365,24 @@ Sound.js ：A javascript library that lets you easily and efficiently work with 
 
 ---
 [PhoneGap--前端开发APP工具](http://phonegap.com/)
+
+---
+[Desktop and Mobile HTML5 game framework](http://phaser.io/)
+
+---
+[腾讯游戏引擎](https://github.com/AlloyTeam/AlloyGameEngine)
+
+---
+[目前有哪些比较成熟的 HTML5 游戏引擎](http://www.zhihu.com/question/20079322)
+
+---
+[JS游戏引擎列表](http://coolshell.cn/articles/3516.html)
+
+---
+[主流HTML5游戏框架的分析和对比（Construct2、ImpactJS、CreateJS、Cocos2d-html5……）](http://blog.csdn.net/zhaoxy_thu/article/details/11867123)
+
+---
+[如何看待 HTML5 开源游戏引擎 Egret，HTML5 游戏开发的前景如何？](http://www.zhihu.com/question/27078280)
+
+---
+[细数10大最热门的免费Javascript游戏引擎](http://www.evget.com/article/2014/3/24/20715.html)
