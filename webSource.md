@@ -386,3 +386,6 @@ Sound.js ：A javascript library that lets you easily and efficiently work with 
 
 ---
 [细数10大最热门的免费Javascript游戏引擎](http://www.evget.com/article/2014/3/24/20715.html)
+
+---
+[Jquery手势密码](http://www.jq22.com/jquery-info4240)
