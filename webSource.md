@@ -389,3 +389,12 @@ Sound.js ：A javascript library that lets you easily and efficiently work with 
 
 ---
 [Jquery手势密码](http://www.jq22.com/jquery-info4240)
+
+---
+[创意LOADING](http://mp.weixin.qq.com/s?__biz=MjM5OTc3Mjk4MA==&mid=211947129&idx=3&sn=dc2825224c609bd397eb151f911c0331&scene=1&srcid=1013NmrBRQ9c4N40xtCSuqW8&key=b410d3164f5f798ee557d5cbb90972a1aaedc467d202e3bcd773e48f0379a3ffaa40ec1787da2bca8b5e0a4606264cb1&ascene=1&uin=MTYyNjgxMjQw&devicetype=Windows+10&version=61020020&pass_ticket=QVSDlYWKWMetK9UMVFAr3PyIKxCOosTlJM35hS6zYmo%3D)
+
+---
+[创意简历](http://strml.net/)
+
+---
+[纯CSS三角形](http://www.admin10000.com/document/4089.html)
