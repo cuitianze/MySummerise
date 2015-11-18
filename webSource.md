@@ -398,3 +398,6 @@ Sound.js ：A javascript library that lets you easily and efficiently work with 
 
 ---
 [纯CSS三角形](http://www.admin10000.com/document/4089.html)
+
+---
+[圆形的轮播切换图](http://baijs.com/tinycircleslider/)
