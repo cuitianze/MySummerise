@@ -401,3 +401,9 @@ Sound.js ：A javascript library that lets you easily and efficiently work with 
 
 ---
 [圆形的轮播切换图](http://baijs.com/tinycircleslider/)
+
+---
+[下拉刷新](https://github.com/apeatling/web-pull-to-refresh)
+
+---
+[方块拖拽](http://ksylvest.github.io/jquery-gridly/)
